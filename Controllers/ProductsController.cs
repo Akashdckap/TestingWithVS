@@ -65,6 +65,7 @@ namespace P21_latest_template.Controllers
 
         [HttpPost("Price")]
         [ProducesResponseType(200, Type = typeof(IEnumerable<ProductPrice>))]
+        //Working on the pricing API
         public IActionResult Price([FromBody] CustomerPriceParam model)
         {
             var results = new List<ProductPrice>();
