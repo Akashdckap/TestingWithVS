@@ -1,0 +1,7 @@
+C:\Users\Akash\source\repos\OOPS_Practice\bin\Debug\OOPS_Practice.exe.config
+C:\Users\Akash\source\repos\OOPS_Practice\bin\Debug\OOPS_Practice.exe
+C:\Users\Akash\source\repos\OOPS_Practice\bin\Debug\OOPS_Practice.pdb
+C:\Users\Akash\source\repos\OOPS_Practice\obj\Debug\OOPS_Practice.csproj.AssemblyReference.cache
+C:\Users\Akash\source\repos\OOPS_Practice\obj\Debug\OOPS_Practice.csproj.CoreCompileInputs.cache
+C:\Users\Akash\source\repos\OOPS_Practice\obj\Debug\OOPS_Practice.exe
+C:\Users\Akash\source\repos\OOPS_Practice\obj\Debug\OOPS_Practice.pdb
