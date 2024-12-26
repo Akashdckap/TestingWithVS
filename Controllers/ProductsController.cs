@@ -66,7 +66,8 @@ namespace P21_latest_template.Controllers
         [HttpPost("Price")]
         [ProducesResponseType(200, Type = typeof(IEnumerable<ProductPrice>))]
         //Working on the pricing API second Time Testing with branch
-        //Working on the Stash 
+        //Working on the Stash
+        //THird attempt for testing branch
         public IActionResult Price([FromBody] CustomerPriceParam model)
         {
             var results = new List<ProductPrice>();
