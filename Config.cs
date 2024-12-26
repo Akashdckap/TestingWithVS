@@ -26,6 +26,7 @@ namespace P21_latest_template
                 },
                 // scopes that client has access to
                 AllowedScopes = { "p21webapi" }
+                //Oauth2.0 implementation
             }
         };
 

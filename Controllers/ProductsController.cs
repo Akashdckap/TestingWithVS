@@ -68,6 +68,7 @@ namespace P21_latest_template.Controllers
         //Working on the pricing API second Time Testing with branch
         //Working on the Stash
         //THird attempt for testing branch
+        // CHecking
         public IActionResult Price([FromBody] CustomerPriceParam model)
         {
             var results = new List<ProductPrice>();
